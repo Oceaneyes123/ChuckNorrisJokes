@@ -76,6 +76,7 @@ const App = () => {
             The Chuck Joke
           </div>
           <div className="joke-text">{ joke.joke }</div>
+          <div className="see-stats">See Stats &rarr;</div>
         </div>
       )
     })
